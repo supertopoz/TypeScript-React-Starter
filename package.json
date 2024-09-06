@@ -12,12 +12,12 @@
     "@types/node": "^7.0.5",
     "@types/react": "15.0.14",
     "@types/react-dom": "^0.14.22",
-    "@types/react-redux": "^4.4.36",
-    "enzyme": "^2.7.1",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-redux": "^5.0.2",
-    "redux": "^3.6.0"
+    "@types/react-redux": "^5.0.17",
+    "enzyme": "^3.5.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-redux": "^5.1.0",
+    "redux": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
